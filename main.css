@@ -1,0 +1,11 @@
+#scenery {
+  height: 200px;
+  width: 500px;
+  border: 1px solid;
+}
+
+#block {
+  width: 10px;
+  height: 10px;
+  background: #000000;
+}
